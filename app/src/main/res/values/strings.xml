@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IFTTT</string>
+    <string name="button_put_an_if_label">Задать время</string>
+    <string name="b_vibration">Вибро</string>
+    <string name="b_no_sound">Не беспокоить</string>
+</resources>
